@@ -10,7 +10,7 @@ I build tools that turn messy financial and macro data into something usable, fr
 
 ### Featured work
 
-- **Prediction-Market Quant Engine** *(private)*. Multi-strategy research stack across Kalshi & Polymarket: logical / cross-platform arbitrage, market-making, and smart-money signals. LLM reasoning with an anti-hallucination verifier, a self-improving loop, and instrumented paper-trading. Research framework, no live orders.
+- **Prediction-Market Quant Engine** *(private)*. Multi-strategy research stack across Kalshi & Polymarket: logical / cross-platform arbitrage, market-making, and smart-money signals. LLM reasoning with an anti-hallucination verifier, a self-improving loop.
 
 - **[Meridian](https://github.com/Emirichu/meridian)**. A full-stack macro dashboard that scores 197 countries on reform-turnaround fundamentals using live IMF + World Bank data. Leaderboard, momentum view, world map, and a source-citing AI analyst. Honest about its own limits.
 
