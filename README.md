@@ -20,7 +20,7 @@
 
 ## Featured Work
 
-### Prediction-Market Quant Engine <sub>· private</sub>
+### Prediction-Market Quant Engine (private)
 Multi-strategy research stack across **Kalshi + Polymarket**: logical / cross-platform arbitrage, market-making, and smart-money signals. LLM reasoning with an anti-hallucination verifier, a self-improving loop, and instrumented paper-trading. Research framework, no live orders.
 
 ### [Meridian](https://github.com/Emirichu/meridian) &nbsp;·&nbsp; [Live Demo](ADD_YOUR_MERIDIAN_URL)
