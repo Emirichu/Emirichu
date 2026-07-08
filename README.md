@@ -18,7 +18,7 @@ I build tools that turn messy financial and macro data into something usable, fr
 
 ---
 
-**Stack:** Python · TypeScript · React · Next.js · SQL · Excel
+**Stack:** Python · TypeScript · React · Excel
 
 📫 arkadigari@gmail.com
 
