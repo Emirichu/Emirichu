@@ -1,6 +1,6 @@
 # Ayush Kadigari
 
-Information Science + Economics @ University of Maryland
+Data Science + Economics @ University of Maryland
 
 I build tools that turn messy financial and macro data into something usable, from country-level economic research to personal finance tracking.
 
