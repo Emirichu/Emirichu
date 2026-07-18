@@ -1,7 +1,7 @@
 # Hi, I'm Ayush
 
-I study econ and information science at the University of Maryland. I build
-tools that test trading and forecasting ideas the honest way: paper first,
+Data science and economics at the University of Maryland. I build tools that
+test trading and forecasting ideas the honest way: paper first,
 rules written before the run, and a public scoreboard either way. Some ideas
 win. The ones that lose stay published, because a dead strategy with receipts
 is worth more than a live one with promises.
